@@ -1,7 +1,7 @@
 ### Hi there! I am Muhammad Bello👋
 
 <div align="center">
-  <img src="https://www.cdc.gov/polaris/media/images/2024/09/policywheel-2@2x.png" width="400" height="400"/>
+  <img src="https://www.cdc.gov/polaris/media/images/2024/09/policywheel-2@2x.png" width="300" height="300"/>
 </div>      
 
 I am an Economist with over three years of comprehensive work experience in quantitative and qualitative research, policy analysis, policy development, project coordination, data analysis, and providing research-based recommendations to senior leadership. 
